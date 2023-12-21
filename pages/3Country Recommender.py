@@ -27,12 +27,12 @@ st.image('web_everything/figures/map_beer.jpg', width=700)
 st.title('What country should you visit next?')
 
 # Selectboxes with beer styles
-beer1 = st.selectbox('Select your favourite beerstyle', beerstyles, index=None)
-beer2 = st.selectbox('Select your second favourite beerstyle', beerstyles, index=None)
-beer3 = st.selectbox('Select your third favourite beerstyle', beerstyles, index=None)
+beer1 = st.selectbox('Select your favourite beerstyle', beerstyles, index=5)
+beer2 = st.selectbox('Select your second favourite beerstyle', beerstyles, index=5)
+beer3 = st.selectbox('Select your third favourite beerstyle', beerstyles, index=5)
 
 # Selectboxes with the trimester in which you want to travel
-trimester = st.selectbox('When would you like to travel?', trimesters, index=None)
+trimester = st.selectbox('When would you like to travel?', trimesters, index=1)
 
 
 # Select the trimester:
