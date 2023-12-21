@@ -8,7 +8,9 @@ from src.data.Data import load_data
 
 # Load training data:
 df = load_data('Data/web/Train.pkl')
-beerstyles = df['1st_Style'].unique()
+
+# The one with all beerstyles
+beerstyles = df['3rd_Style'].unique()
 country = None
 
 trimesters = ['Jan-Mar', 'Apr-Jun','Jul-Sept', 'Oct-Dec']
