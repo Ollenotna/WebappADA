@@ -44,7 +44,3 @@ with c2:
     st.info('**GitHub: [@adacadabra2023](https://github.com/epfl-ada/ada-2023-project-adacadabra2023)**', icon="💻")
 
 st.markdown("Developed by __Sandra Hernández__, __Andrea Sanchez__, __Antonello De Bari__, __Sebastián Deslarzes__ and __Cristina Loureiro__")
-
-
-import sklearn
-st.write(sklearn.__version__)
