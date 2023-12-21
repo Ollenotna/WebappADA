@@ -7,7 +7,7 @@ from src.data.Data import load_data
 
 
 # TODO:
-df = load_data('Data/web/Train.pkl')
+df = load_data('./main_dfs_web/training_df.pkl')
 beerstyles = df['1st_Style'].unique()
 
 
