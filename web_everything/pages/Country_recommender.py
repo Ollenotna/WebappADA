@@ -7,7 +7,7 @@ from src.data.Data import load_data
 
 
 # Load training data:
-df = load_data('Data/web/Train.pkl')
+df = load_data('web_everything/Data/web/Train.pkl')
 beerstyles = df['1st_Style'].unique()
 country = None
 
@@ -15,10 +15,10 @@ trimesters = ['Jan-Mar', 'Apr-Jun','Jul-Sept', 'Oct-Dec']
 
 
 # load models
-model_aut = load_data('trees/tree_T1.pkl')
-model_spr = load_data('trees/tree_T2.pkl')
-model_summ = load_data('trees/tree_T3.pkl')
-model_wint = load_data('trees/tree_T4.pkl')
+model_aut = load_data('web_everything/trees/tree_T1.pkl')
+model_spr = load_data('web_everything/trees/tree_T2.pkl')
+model_summ = load_data('web_everything/trees/tree_T3.pkl')
+model_wint = load_data('web_everything/trees/tree_T4.pkl')
 
 # Set Image
 st.image('web_everything/figures/map_beer.jpg', width=700)
