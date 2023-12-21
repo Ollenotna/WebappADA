@@ -43,4 +43,4 @@ with c1:
 with c2:
     st.info('**GitHub: [@adacadabra2023](https://github.com/epfl-ada/ada-2023-project-adacadabra2023)**', icon="💻")
 
-st.markdown("Developed by __Sandra Hernández__, __Andrea López__, __Antonello Di Bari__, __Sebastián Deslarzes__ and __Cristina Loureiro__")
+st.markdown("Developed by __Sandra Hernández__, __Andrea Sanchez__, __Antonello De Bari__, __Sebastián Deslarzes__ and __Cristina Loureiro__")
