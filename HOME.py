@@ -2,7 +2,7 @@ import streamlit as st
 #import pandas as pd
 
 # Configure page
-st.set_page_config(page_title='Beers Travel Guide', page_icon=':beer_mug:')
+st.set_page_config(page_title='Beers Travel Guide', page_icon=':beer:')
 
 # Set Image
 st.image('beer_intro.png')
