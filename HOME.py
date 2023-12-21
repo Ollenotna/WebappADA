@@ -33,7 +33,7 @@ st.write(
 
     Join us is if you want to dive into the world of beers, and learn about each country's brewering
     traditions. Our guide might help you expand your traveling list, or find the perfect destinations
-    aligned with your beer preferences. Isn't this what you beer-loving soul is thirsting for?
+    aligned with your beer preferences. Isn't this what your beer-loving soul is thirsting for?
     """
 )
 
