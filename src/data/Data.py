@@ -1,5 +1,4 @@
 import pickle as pkl
-import sklearn
 
 def load_data(save_path='Data/Unified_ratings.pkl'):
     with open(save_path, 'rb') as f:
