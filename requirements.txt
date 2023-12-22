@@ -1,9 +1,8 @@
 numpy
 streamlit
-pickle
 seaborn
 matplotlib
 plotly
 pandas
 joblib
-scikit-learn
+scikit-learn == 1.0.2
