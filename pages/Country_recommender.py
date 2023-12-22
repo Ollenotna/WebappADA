@@ -1,6 +1,5 @@
 import sys
 import streamlit as st
-import sklearn
 
 sys.path.append('.')
 from src.web.models import run_query
