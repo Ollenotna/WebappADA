@@ -1,0 +1,213 @@
+,Countries,Used,iso
+0,Gabon,NO,GAB
+1,United Kingdom,YES,GBR
+2,United States,YES,USA
+3,Singapore,YES,SGP
+4,China,YES,CHN
+5,Chad,NO,TCD
+6,Cameroon,NO,CMR
+7,Burkina Faso,NO,BFA
+8,Zambia,NO,ZMB
+9,Romania,YES,ROU
+10,Nigeria,NO,NGA
+11,Georgia,YES,GEO
+12,Hong Kong,YES,HKG
+13,Guinea,NO,GIN
+14,Kyrgyzstan,NO,KGZ
+15,Montenegro,NO,MNE
+16,Benin,NO,BEN
+17,Croatia,YES,HRV
+18,Turks and Caicos Islands,NO,TCA
+19,Mexico,YES,MEX
+20,Northern Marianas,NO,MNP
+21,Guam,NO,GUM
+22,Laos,NO,LAO
+23,Honduras,NO,HND
+24,Morocco,NO,MAR
+25,Indonesia,NO,IDN
+26,Monaco,NO,MCO
+27,Ukraine,YES,UKR
+28,Canada,YES,CAN
+29,Jordan,NO,JOR
+30,South Ossetia,NO,ATA
+31,Portugal,YES,PRT
+32,Guernsey,NO,GGY
+33,India,YES,IND
+34,Puerto Rico,NO,PRI
+35,Japan,YES,JPN
+36,Iran,NO,IRN
+37,Hungary,YES,HUN
+38,Bulgaria,YES,BGR
+39,Guinea-Bissau,NO,GNB
+40,Liberia,NO,LBR
+41,Togo,NO,TGO
+42,Niger,NO,NER
+43,Lithuania,YES,LTU
+44,Dem Rep of Congo,NO,COD
+45,Cyprus,NO,CYP
+46,Nagorno-Karabakh,NO,AZD
+47,Italy,YES,ITA
+48,Andorra,NO,AND
+49,Botswana,NO,BWA
+50,Papua New Guinea,NO,PNG
+51,Mongolia,NO,MNG
+52,Ethiopia,NO,ETH
+53,Denmark,YES,DNK
+54,French Polynesia,NO,PYF
+55,Greece,YES,GRC
+56,Sri Lanka,NO,LKA
+57,Syria,NO,SYR
+58,Germany,YES,DEU
+59,Jersey,NO,JEY
+60,Armenia,NO,ARM
+61,Mozambique,NO,MOZ
+62,Senegal,NO,SEN
+63,Palestine,NO,PSE
+64,Transdniestra,NO,PMD
+65,Bangladesh,NO,BGD
+66,Saint Vincent and The Grenadines,NO,VCT
+67,Turkmenistan,NO,TKM
+68,Eritrea,NO,ERI
+69,Switzerland,YES,CHE
+70,Malta,NO,MLT
+71,Israel,YES,ISR
+72,El Salvador,NO,SLV
+73,French Guiana,NO,GUF
+74,Tonga,NO,TON
+75,Zimbabwe,NO,ZWE
+76,Samoa,NO,WSM
+77,Barbados,NO,BRB
+78,Chile,YES,CHL
+79,Cambodia,NO,KHM
+80,Cook Islands,NO,COK
+81,Trinidad & Tobago,NO,TTO
+82,Bhutan,NO,BTN
+83,Uzbekistan,NO,UZB
+84,Egypt,NO,EGY
+85,Norfolk Island,NO,NFK
+86,Kosovo,NO,XKX
+87,Uruguay,NO,URY
+88,Bosnia and Herzegovina,NO,BIH
+89,Dominican Republic,NO,DOM
+90,Reunion,NO,REU
+91,Equatorial Guinea,NO,GNQ
+92,Russia,YES,RUS
+93,Tajikistan,NO,TJK
+94,North Korea,NO,PRK
+95,Palau,NO,PLW
+96,Namibia,NO,NAM
+97,Bonaire,NO,BES
+98,Cayman Islands,NO,CYM
+99,Australia,YES,AUS
+100,Martinique,NO,MTQ
+101,Ecuador,YES,ECU
+102,Vanuatu,NO,VUT
+103,Tibet,NO,XZ
+104,Congo,NO,COG
+105,Uganda,NO,UGA
+106,Saudi Arabia,NO,SAU
+107,Mauritius,NO,MUS
+108,Azerbaijan,NO,AZE
+109,Argentina,YES,ARG
+110,Tunisia,NO,TUN
+111,Belize,NO,BLZ
+112,Luxembourg,NO,LUX
+113,Madagascar,NO,MDG
+114,Aruba,NO,ABW
+115,Burundi,NO,BDI
+116,Spain,YES,ESP
+117,Abkhazia,NO,ABH
+118,Cape Verde Islands,NO,CPV
+119,East Timor,NO,TLS
+120,Swaziland,NO,SWZ
+121,South Sudan,NO,SSD
+122,Guyana,NO,GUY
+123,Belarus,YES,BLR
+124,Austria,YES,AUT
+125,Bolivia,NO,BOL
+126,Central African Republic,NO,CAF
+127,Mali,NO,MLI
+128,Sierra Leone,NO,SLE
+129,Suriname,NO,SUR
+130,Solomon Islands,NO,SLB
+131,Rwanda,NO,RWA
+132,Brazil,YES,BRA
+133,Gibraltar,NO,GIB
+134,Taiwan,YES,TWN
+135,Vietnam,YES,VNM
+136,New Zealand,YES,NZL
+137,Fiji Islands,NO,FJI
+138,Turkey,NO,TUR
+139,Greenland,NO,GRL
+140,Moldova,NO,MDA
+141,Haiti,NO,HTI
+142,Falkland Islands,NO,FLK
+143,Guadeloupe,NO,GLP
+144,South Africa,YES,ZAF
+145,Lesotho,NO,LSO
+146,Czech Republic,YES,CZE
+147,Micronesia,NO,FSM
+148,Paraguay,NO,PRY
+149,Iraq,NO,IRQ
+150,Faroe Islands,NO,FRO
+151,Panama,NO,PAN
+152,Netherlands,YES,NLD
+153,Peru,YES,PER
+154,Ivory Coast,NO,CIV
+155,Ghana,NO,GHA
+156,Sao Tome and Principe,NO,STP
+157,Slovenia,YES,SVN
+158,Serbia,YES,SRB
+159,American Samoa,NO,ASM
+160,Macedonia,NO,MKD
+161,Latvia,YES,LVA
+162,Guatemala,NO,GTM
+163,Cuba,NO,CUB
+164,Venezuela,NO,VEN
+165,Angola,NO,AGO
+166,Saint Lucia,NO,LCA
+167,Finland,YES,FIN
+168,Nicaragua,NO,NIC
+169,Sweden,YES,SWE
+170,Seychelles,NO,SYC
+171,Poland,YES,POL
+172,Libya,NO,LBY
+173,Isle of Man,NO,IMN
+174,Ireland,YES,IRL
+175,Myanmar,NO,MMR
+176,Algeria,NO,DZA
+177,Kazakhstan,YES,KAZ
+178,Norway,YES,NOR
+179,Costa Rica,YES,CRI
+180,Jamaica,NO,JAM
+181,Lebanon,NO,LBN
+182,Dominica,NO,DMA
+183,Colombia,YES,COL
+184,South Korea,YES,KOR
+185,Iceland,NO,ISL
+186,Macau,NO,MAC
+187,Grenada,NO,GRD
+188,Malaysia,NO,MYS
+189,Belgium,YES,BEL
+190,Bahamas,NO,BHS
+191,Philippines,YES,PHL
+192,Curaçao,NO,CUW
+193,San Marino,NO,SMR
+194,Turkish Republic of Cyprus,NO,CYP
+195,France,YES,FRA
+196,Bermuda,NO,BMU
+197,Mayotte,NO,MYT
+198,Antigua & Barbuda,NO,ATG
+199,Estonia,YES,EST
+200,Gambia,NO,GMB
+201,Pakistan,NO,PAK
+202,New Caledonia,NO,NCL
+203,Slovak Republic,YES,SVK
+204,Liechtenstein,NO,LIE
+205,Tanzania,NO,TZA
+206,Malawi,NO,MWI
+207,Nepal,NO,NPL
+208,United Arab Emirates,NO,ARE
+209,Kenya,NO,KEN
+210,Thailand,YES,THA
+211,Albania,NO,ALB

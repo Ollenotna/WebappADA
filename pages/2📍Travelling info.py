@@ -60,12 +60,11 @@ st.write(
 )
 
 
-st.image('/Users/loureiro/Documents/Courses/CS-401_ADA/Final_DATA/figs/locality.jpeg')
+st.image('figures/locality.jpeg')
 
 st.markdown("""---""")
 st.header("🕺🏽 How preferred beer styles vary across countries and seasons")
 
-data_path = '/Users/loureiro/Documents/Courses/CS-401_ADA/Final_DATA/for_web'
 
 st.write(
     """
@@ -78,10 +77,10 @@ st.write(
     """
 )
 
-T1_reviews = pd.read_csv(os.path.join(data_path, 'T1_reviews.csv'), index_col= 0)
-T2_reviews = pd.read_csv(os.path.join(data_path, 'T2_reviews.csv'), index_col= 0)
-T3_reviews = pd.read_csv(os.path.join(data_path, 'T3_reviews.csv'), index_col= 0)
-T4_reviews = pd.read_csv(os.path.join(data_path, 'T4_reviews.csv'), index_col= 0)
+T1_reviews = pd.read_csv('Data/web/T1_reviews.csv', index_col= 0)
+T2_reviews = pd.read_csv('Data/web/T2_reviews.csv', index_col= 0)
+T3_reviews = pd.read_csv('Data/web/T3_reviews.csv', index_col= 0)
+T4_reviews = pd.read_csv('Data/web/T4_reviews.csv', index_col= 0)
 
 def pie_chart(country):
 
@@ -130,7 +129,7 @@ st.write(
 )
 
 
-world_preference = pd.read_csv(os.path.join(data_path, 'World_map_beer_preferences.csv'), index_col= 0)
+world_preference = pd.read_csv('Data/web/World_map_beer_preferences.csv', index_col= 0)
 
 palette_styles = {'Bock': (0.12156862745098039, 0.4666666666666667, 0.7058823529411765),
  'Hybrid Beer': (0.6823529411764706, 0.7803921568627451, 0.9098039215686274),
@@ -227,7 +226,7 @@ st.markdown('''In the realm of reviews, a score serves as a condensed summary of
             Text_prepocessing.py function. To facilitate the creation of a TF-IDF matrix and reduce sparsity, our final step 
             involved text normalization.''')
 
-st.image('/Users/loureiro/Documents/Courses/CS-401_ADA/Final_DATA/figs/language.jpeg')
+st.image('figures/language.jpeg')
 
 
 st.markdown('''To identify keywords describing each review, we then identified the top-3-words for each review based on the TF-IDF 
@@ -248,4 +247,4 @@ st.markdown('''- **Geographical insights:** Moreover, the analysis unveiled word
             instance, reviews associated with Ale and Strong Ale categories frequently featured the term "Belgium," reflecting the beers' 
             English and Belgian roots. It must be taken into account that these observation can be biased by the group construction.''')
 
-st.image('/Users/loureiro/Documents/Courses/CS-401_ADA/Final_DATA/figs/wordclouds.jpeg')
+st.image('figures/wordclouds.jpeg')

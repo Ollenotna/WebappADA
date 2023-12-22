@@ -49,7 +49,7 @@ st.write('''Countries that were split into different states/regions were further
          This unification process was repeated for Canada and United Kindom too. Finally, due to the strict filtering on the countries, we provide 
          the following choropleth graph that depicts the retained countries as 'YES' and the filtered out countries as 'NO''')
 
-data_map = pd.read_csv('/Users/loureiro/Documents/Courses/CS-401_ADA/Final_DATA/for_web/data_map.csv')
+data_map = pd.read_csv('Data/web/data_map.csv')
 
 fig = px.choropleth(
     data_map,
@@ -67,7 +67,7 @@ st.write('''To improve the interpretability of the beer styles, given their high
         styles by production procedure, color, bitterness, and alcohol level, was utilized for a more accurate classification. The following bar chart depicts 
          the 20 macro-styles that we have defined with their corresponding total number of reviews across both unified datasets.''')
 
-st.image('/Users/loureiro/Documents/Courses/CS-401_ADA/Final_DATA/figs/style_distribution.png')
+st.image('figures/style_distribution.png')
 
 st.write(
     """
@@ -76,7 +76,7 @@ st.write(
     """
 )
 
-pie_chart_styles = pd.read_csv('/Users/loureiro/Documents/Courses/CS-401_ADA/Final_DATA/for_web/style_grouping.csv', index_col=0)
+pie_chart_styles = pd.read_csv('Data/web/style_grouping.csv', index_col=0)
 
 def styles_pie_chart(macro_style):
     df = pie_chart_styles # replace with your own data source

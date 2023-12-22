@@ -1,0 +1,58 @@
+,country_brewery,T1,T2,T3,T4,iso_alpha
+0,Argentina,Smoked,Wild/Sour Beer,Smoked,Bock,ARG
+1,Australia,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,AUS
+2,Austria,Strong Brown/Dark Ale,Cocktails,Strong Brown/Dark Ale,Cocktails,AUT
+3,Belarus,Strong Brown/Dark Ale,IPA,Strong Brown/Dark Ale,Amber Ale,BLR
+4,Belgium,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,BEL
+5,Brazil,Strong Ale,Cocktails,Strong Ale,Strong Brown/Dark Ale,BRA
+6,Bulgaria,IPA,Wild/Sour Beer,Amber Ale,Strong Ale,BGR
+7,Canada,Strong Pale Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Pale Ale,CAN
+8,Chile,Strong Brown/Dark Ale,Wheat Beer,Strong Brown/Dark Ale,Smoked,CHL
+9,China,Bock,Strong Ale,Wild/Sour Beer,Smoked,CHN
+10,Colombia,Strong Pale Ale,Strong Ale,Strong Pale Ale,Bock,COL
+11,Costa Rica,Porter,Stout,Stout,Strong Ale,CRI
+12,Croatia,Strong Brown/Dark Ale,Strong Ale,Brown/Dark Ale,Strong Brown/Dark Ale,HRV
+13,Czech Republic,Cocktails,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,CZE
+14,Denmark,Porter,Stout,Porter,Porter,DNK
+15,Ecuador,Wheat Beer,IPA,Strong Ale,Strong Ale,ECU
+16,Estonia,Strong Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,EST
+17,Finland,Strong Brown/Dark Ale,Porter,Stout,Porter,FIN
+18,France,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,FRA
+19,Georgia,Porter,Smoked,Stout,Smoked,GEO
+20,Germany,Smoked,Smoked,Smoked,Smoked,DEU
+21,Greece,Stout,IPA,Stout,Strong Ale,GRC
+22,Hong Kong,Strong Pale Ale,Smoked,Wild/Sour Beer,Porter,HKG
+23,Hungary,Strong Brown/Dark Ale,Wild/Sour Beer,Stout,Strong Brown/Dark Ale,HUN
+24,India,Wild/Sour Beer,Strong Brown/Dark Ale,Strong Pale Ale,Strong Brown/Dark Ale,IND
+25,Ireland,Smoked,Smoked,Wild/Sour Beer,Smoked,IRL
+26,Israel,Smoked,IPA,Strong Ale,Strong Brown/Dark Ale,ISR
+27,Italy,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,ITA
+28,Japan,Smoked,Strong Ale,Strong Ale,Strong Ale,JPN
+29,Kazakhstan,Wheat Beer,Porter,Brown/Dark Ale,Brown/Dark Ale,KAZ
+30,Latvia,Smoked,Strong Brown/Dark Ale,Stout,Bock,LVA
+31,Lithuania,Strong Ale,Smoked,Smoked,Smoked,LTU
+32,Mexico,Strong Brown/Dark Ale,Wild/Sour Beer,Ale,Wild/Sour Beer,MEX
+33,Netherlands,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,NLD
+34,New Zealand,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Stout,NZL
+35,Norway,Stout,Stout,Stout,Stout,NOR
+36,Peru,Strong Ale,Wild/Sour Beer,Bock,Strong Ale,PER
+37,Philippines,Porter,Stout,Stout,Amber Ale,PHL
+38,Poland,Porter,Porter,Porter,Strong Brown/Dark Ale,POL
+39,Portugal,IPA,Strong Brown/Dark Ale,Porter,Wild/Sour Beer,PRT
+40,Romania,Stout,Stout,IPA,Strong Ale,ROU
+41,Russia,Strong Brown/Dark Ale,IPA,Strong Brown/Dark Ale,IPA,RUS
+42,Serbia,Brown/Dark Ale,Smoked,IPA,Amber Ale,SRB
+43,Singapore,Brown/Dark Ale,Brown/Dark Ale,Porter,Strong Ale,SGP
+44,Slovak Republic,Porter,Wild/Sour Beer,Wild/Sour Beer,Smoked,SVK
+45,Slovenia,Wild/Sour Beer,Wild/Sour Beer,Stout,Wild/Sour Beer,SVN
+46,South Africa,Strong Pale Ale,Smoked,Stout,Smoked,ZAF
+47,South Korea,Strong Ale,Smoked,Herbs/Vegetables,Brown/Dark Ale,KOR
+48,Spain,Stout,Stout,Stout,Stout,ESP
+49,Sweden,Stout,Stout,Stout,Stout,SWE
+50,Switzerland,Wild/Sour Beer,Wild/Sour Beer,Wild/Sour Beer,Bock,CHE
+51,Taiwan,Ale,Bock,Wild/Sour Beer,IPA,TWN
+52,Thailand,Porter,Strong Brown/Dark Ale,Ale,Porter,THA
+53,Ukraine,Strong Brown/Dark Ale,Wild/Sour Beer,Strong Pale Ale,Brown/Dark Ale,UKR
+54,United Kingdom,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,Strong Brown/Dark Ale,GBR
+55,United States,Stout,Stout,Stout,Stout,USA
+56,Vietnam,Strong Brown/Dark Ale,Wild/Sour Beer,Strong Brown/Dark Ale,Stout,VNM
