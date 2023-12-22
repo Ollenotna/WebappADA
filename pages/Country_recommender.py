@@ -7,7 +7,7 @@ from src.data.Data import load_data
 
 
 # Load training data:
-df = load_data('GIGI/Data/web/Train.pkl')
+df = load_data('Data/web/Train.pkl')
 beerstyles = df['1st_Style'].unique()
 country = None
 
