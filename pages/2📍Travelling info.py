@@ -230,7 +230,7 @@ st.image('figures/language.jpeg')
 
 
 st.markdown('''To identify keywords describing each review, we then identified the top-3-words for each review based on the TF-IDF 
-            score to identify. Grouping these keywords by the different columns in the data frame (macro_style, year, abv) allowed us 
+            score to identify. Grouping these keywords by the macro_style column in the data frame allowed us 
             to appreciate the descriptive power of words in conveying concepts beyond numerical scores.''')
 
 st.markdown('''Considering our audience comprised both by novice and expert beer enthuasiasts, we sought to delve into the prevalent words used in describing specific beer 
